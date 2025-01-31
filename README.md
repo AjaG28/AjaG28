@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @AjaG28
+- I'm making this repository for computing II.
